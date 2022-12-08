@@ -21,16 +21,17 @@ p {font-size: 20px;}
     font-size: 40px;
 }
 .container { 
-    width: 800px;
+    width: 1400px;
     padding: 10px;
     margin: 5%;
     float: left;
 }
 .imgcontainer {
-    width: 500px;
-    height: 500px;
+    width: 300px;
+    height: 300px;
     float: left;
-    margin: 125px auto 50px 200px;  
+    margin: 125px 50px 50px 50px;  
+    padding: 10px;
 
 
 }
